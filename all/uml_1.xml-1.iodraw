@@ -158,7 +158,7 @@
             <mxPoint x="120" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6JzgCDRz4e0vlYsTSDe-39" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 9px; letter-spacing: 0.064px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;1：输入搜索关键词&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-37">
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-39" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 9px; letter-spacing: 0.064px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;1：登录店铺&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-37">
           <mxGeometry width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
