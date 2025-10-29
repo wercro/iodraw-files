@@ -146,7 +146,7 @@
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-33">
           <mxGeometry x="45" y="100" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="G6JzgCDRz4e0vlYsTSDe-35" value=":商品数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-35" value=":店铺数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="565" y="370" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-35">
@@ -273,7 +273,7 @@
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-65" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="320" y="540" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G6JzgCDRz4e0vlYsTSDe-66" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 9px; letter-spacing: 0.064px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;3：操作店铺&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-65">
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-66" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 9px; letter-spacing: 0.064px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;4：发送请求&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-65">
           <mxGeometry width="70" height="20" as="geometry" />
         </mxCell>
       </root>
