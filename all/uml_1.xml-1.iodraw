@@ -467,6 +467,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-200" value="10:确认订单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-198">
+          <mxGeometry x="17.5" width="72.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-201" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="1310" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-202" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="G6JzgCDRz4e0vlYsTSDe-201">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="20" as="sourcePoint" />
+            <mxPoint x="105" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-203" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-201">
           <mxGeometry x="17.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
