@@ -382,6 +382,18 @@
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-177" value="3:结算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-175">
           <mxGeometry x="17.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-178" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="990" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-179" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="G6JzgCDRz4e0vlYsTSDe-178">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="20" as="sourcePoint" />
+            <mxPoint x="105" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-180" value="3:结算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-178">
+          <mxGeometry x="17.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
