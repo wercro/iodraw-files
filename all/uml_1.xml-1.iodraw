@@ -305,7 +305,7 @@
           <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-131" value=":订单处理服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="310" y="810" width="100" height="370" as="geometry" />
+          <mxGeometry x="310" y="810" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-132" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-131">
           <mxGeometry x="45" y="200" width="10" height="170" as="geometry" />
@@ -442,7 +442,7 @@
             <mxPoint y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6JzgCDRz4e0vlYsTSDe-194" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-192">
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-194" value="8:返回结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-192">
           <mxGeometry x="15" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-195" value="" style="group" vertex="1" connectable="0" parent="1">
