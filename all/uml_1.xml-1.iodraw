@@ -323,7 +323,7 @@
           <mxGeometry x="45" y="120" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-162" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="127.5" y="1170" width="105" height="30" as="geometry" />
+          <mxGeometry x="125" y="1140" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-155" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="G6JzgCDRz4e0vlYsTSDe-162">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
