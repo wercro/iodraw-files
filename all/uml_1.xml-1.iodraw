@@ -319,6 +319,12 @@
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-154" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-153">
           <mxGeometry x="45" y="120" width="10" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-155" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="950" as="sourcePoint" />
+            <mxPoint x="390" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
