@@ -391,7 +391,7 @@
             <mxPoint x="105" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6JzgCDRz4e0vlYsTSDe-180" value="3:结算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-178">
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-180" value="4:发送请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-178">
           <mxGeometry x="17.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
