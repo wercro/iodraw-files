@@ -394,7 +394,7 @@
         <mxCell id="Fvz5iicQNDNEQVWPeU7T-88" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Fvz5iicQNDNEQVWPeU7T-86">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fvz5iicQNDNEQVWPeU7T-89" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.595;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fvz5iicQNDNEQVWPeU7T-4">
+        <mxCell id="Fvz5iicQNDNEQVWPeU7T-89" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1230" y="-120" as="sourcePoint" />
             <mxPoint x="1390" y="-120" as="targetPoint" />
