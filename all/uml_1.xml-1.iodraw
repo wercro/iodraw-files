@@ -287,6 +287,110 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-79" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="95" y="120" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-80" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="G6JzgCDRz4e0vlYsTSDe-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="35" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-81" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="275" y="130" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-82" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="425" y="150" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-83" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="595" y="170" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-84" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="150" y="130" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-85" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="G6JzgCDRz4e0vlYsTSDe-84" source="G6JzgCDRz4e0vlYsTSDe-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="60" as="sourcePoint" />
+            <mxPoint x="120" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-86" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 9px; letter-spacing: 0.064px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;1：输入搜索关键词&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-84">
+          <mxGeometry width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="160" as="sourcePoint" />
+            <mxPoint x="420" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-88" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="315" y="150" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-89" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 9px; letter-spacing: 0.064px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;2：发送请求&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-88">
+          <mxGeometry width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-90" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="180" as="sourcePoint" />
+            <mxPoint x="590" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-91" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="170" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-92" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 9px; letter-spacing: 0.064px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;3：查询数据&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-91">
+          <mxGeometry width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-93" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="210" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-94" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 9px; letter-spacing: 0.064px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;4：返回数据&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-93">
+          <mxGeometry width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-95" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="G6JzgCDRz4e0vlYsTSDe-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="144.69000000000028" y="19.310000000000002" as="sourcePoint" />
+            <mxPoint x="-24.999655172413725" y="19.310000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80.19000000000005" y="19.310000000000002" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-96" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-97" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;-apple-system, blinkmacsystemfont, Helvetica Neue, helvetica, segoe ui, arial, roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif, Source Han Serif&quot; color=&quot;#111133&quot;&gt;&lt;span style=&quot;letter-spacing: 0.064px; background-color: rgb(255, 255, 255);&quot;&gt;5：返回格式化结果&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-96">
+          <mxGeometry width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-98" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="G6JzgCDRz4e0vlYsTSDe-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="19" as="sourcePoint" />
+            <mxPoint x="-24.999655172413725" y="19.310000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80.19000000000005" y="19.310000000000002" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-99" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="230" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-100" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;-apple-system, blinkmacsystemfont, Helvetica Neue, helvetica, segoe ui, arial, roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif, Source Han Serif&quot; color=&quot;#111133&quot;&gt;&lt;span style=&quot;letter-spacing: 0.064px; background-color: rgb(255, 255, 255);&quot;&gt;6：展示结果&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-99">
+          <mxGeometry width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="G6JzgCDRz4e0vlYsTSDe-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="19" as="sourcePoint" />
+            <mxPoint x="-24.999655172413725" y="19.310000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80.19000000000005" y="19.310000000000002" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
