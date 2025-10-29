@@ -311,10 +311,10 @@
           <mxGeometry x="45" y="100" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-133" value=":商品数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="550" y="810" width="100" height="300" as="geometry" />
+          <mxGeometry x="510" y="810" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-153" value="用户数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="700" y="810" width="100" height="300" as="geometry" />
+          <mxGeometry x="630" y="810" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-154" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-153">
           <mxGeometry x="45" y="120" width="10" height="80" as="geometry" />
