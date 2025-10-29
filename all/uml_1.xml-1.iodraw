@@ -493,6 +493,9 @@
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-206" value="10:更新数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-204">
           <mxGeometry x="17.5" width="82.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-207" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="475" y="1260" width="10" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
