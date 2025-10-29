@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="573" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,10 +121,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-28" value=":卖家" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="65" y="370" width="100" height="300" as="geometry" />
+          <mxGeometry x="65" y="370" width="100" height="350" as="geometry" />
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-28">
-          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="280" as="geometry" />
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-30" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="G6JzgCDRz4e0vlYsTSDe-28" target="G6JzgCDRz4e0vlYsTSDe-29">
           <mxGeometry relative="1" as="geometry">
@@ -201,7 +201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-52" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="145" y="580" width="120" height="20" as="geometry" />
+          <mxGeometry x="145" y="700" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-53" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;-apple-system, blinkmacsystemfont, Helvetica Neue, helvetica, segoe ui, arial, roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif, Source Han Serif&quot; color=&quot;#111133&quot;&gt;&lt;span style=&quot;letter-spacing: 0.064px; background-color: rgb(255, 255, 255);&quot;&gt;6：展示结果&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-52">
           <mxGeometry width="70" height="20" as="geometry" />
