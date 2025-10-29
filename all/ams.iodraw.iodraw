@@ -209,7 +209,7 @@
           <mxGeometry y="64" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="x8PPnbq1CrwPEJQeVrHN-83" value="&amp;lt;&amp;lt;abstract&amp;gt;&amp;gt;&lt;div&gt;Promotion&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="940" width="160" height="100" as="geometry" />
+          <mxGeometry x="510" y="930" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="x8PPnbq1CrwPEJQeVrHN-84" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="x8PPnbq1CrwPEJQeVrHN-83">
           <mxGeometry y="40" width="160" height="26" as="geometry" />
@@ -285,6 +285,18 @@
             <mxPoint x="453" y="1060" as="sourcePoint" />
             <mxPoint x="400" y="1010" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x8PPnbq1CrwPEJQeVrHN-107" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="410" as="sourcePoint" />
+            <mxPoint x="480" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8PPnbq1CrwPEJQeVrHN-108" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="x8PPnbq1CrwPEJQeVrHN-107">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8PPnbq1CrwPEJQeVrHN-109" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="x8PPnbq1CrwPEJQeVrHN-107">
+          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
