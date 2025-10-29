@@ -394,7 +394,7 @@
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-180" value="4:发送请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-178">
           <mxGeometry x="17.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G6JzgCDRz4e0vlYsTSDe-181" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-181" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="G6JzgCDRz4e0vlYsTSDe-131">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="369.70000000000005" y="1050" as="sourcePoint" />
             <mxPoint x="410" y="1020" as="targetPoint" />
@@ -402,6 +402,11 @@
               <mxPoint x="410" y="1050" />
               <mxPoint x="410" y="1080" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-182" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G6JzgCDRz4e0vlYsTSDe-181">
+          <mxGeometry x="-0.0703" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
