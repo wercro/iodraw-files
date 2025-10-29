@@ -313,18 +313,6 @@
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-133" value=":商品数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="430" y="810" width="100" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="G6JzgCDRz4e0vlYsTSDe-162" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="1300" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G6JzgCDRz4e0vlYsTSDe-155" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="G6JzgCDRz4e0vlYsTSDe-162">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="20" as="sourcePoint" />
-            <mxPoint x="105" y="20" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G6JzgCDRz4e0vlYsTSDe-157" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-162">
-          <mxGeometry x="17.5" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-166" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="52.5" y="1340" width="100" height="30" as="geometry" />
         </mxCell>
@@ -518,6 +506,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G6JzgCDRz4e0vlYsTSDe-215" value="12:更新订单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-213">
+          <mxGeometry x="15" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-217" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="1360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-218" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="G6JzgCDRz4e0vlYsTSDe-217">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="20" as="sourcePoint" />
+            <mxPoint y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-219" value="12:更新订单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6JzgCDRz4e0vlYsTSDe-217">
           <mxGeometry x="15" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
