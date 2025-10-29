@@ -39,7 +39,7 @@
             <mxPoint x="260" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6JzgCDRz4e0vlYsTSDe-7" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 16px; letter-spacing: 0.064px; text-align: start; text-wrap-mode: wrap;&quot;&gt;输入搜索关键词&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=rtl;" vertex="1" connectable="0" parent="G6JzgCDRz4e0vlYsTSDe-5">
+        <mxCell id="G6JzgCDRz4e0vlYsTSDe-7" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 16px; letter-spacing: 0.064px; text-align: start; text-wrap-mode: wrap;&quot;&gt;输入搜索关键词&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G6JzgCDRz4e0vlYsTSDe-5">
           <mxGeometry x="-0.1524" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
