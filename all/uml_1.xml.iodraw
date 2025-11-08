@@ -74,7 +74,7 @@
             <mxPoint x="420" y="334" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4SMQWO8CdWx0Sw58CFj-54" value="«use»" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P4SMQWO8CdWx0Sw58CFj-53">
+        <mxCell id="P4SMQWO8CdWx0Sw58CFj-54" value="«control»" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P4SMQWO8CdWx0Sw58CFj-53">
           <mxGeometry x="0.0325" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
