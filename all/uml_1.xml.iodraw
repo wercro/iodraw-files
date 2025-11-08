@@ -51,6 +51,11 @@
             <mxPoint x="450" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="P4SMQWO8CdWx0Sw58CFj-16" value="存储评论数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P4SMQWO8CdWx0Sw58CFj-14">
+          <mxGeometry x="-0.2665" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-15" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="P4SMQWO8CdWx0Sw58CFj-2" target="P4SMQWO8CdWx0Sw58CFj-3">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="120" y="260" as="sourcePoint" />
