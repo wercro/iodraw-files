@@ -28,10 +28,10 @@
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-39" value="+createBarChart(Map&amp;lt;String, Integer&amp;gt; data)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-38">
           <mxGeometry y="26" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="P4SMQWO8CdWx0Sw58CFj-40" value="+analyze(Comment comment)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-38">
+        <mxCell id="P4SMQWO8CdWx0Sw58CFj-40" value="+createLineChart(Map&amp;lt;DateTime, Double&amp;gt; trend)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-38">
           <mxGeometry y="52" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="P4SMQWO8CdWx0Sw58CFj-41" value="+Double getScore(String commentId)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-38">
+        <mxCell id="P4SMQWO8CdWx0Sw58CFj-41" value="+createWordCloud(Map&amp;lt;String, Integer&amp;gt; keywords)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-38">
           <mxGeometry y="78" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-42" value="SentimentAnalysis" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=default;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
