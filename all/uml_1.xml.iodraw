@@ -40,10 +40,10 @@
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-43" value="-Map&amp;lt;String, Double&amp;gt; sentimentScores" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-42">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="P4SMQWO8CdWx0Sw58CFj-44" value="+DateTime timestamp" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-42">
+        <mxCell id="P4SMQWO8CdWx0Sw58CFj-44" value="+Double getScore(String commentId)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-42">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="P4SMQWO8CdWx0Sw58CFj-45" value="+String source" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-42">
+        <mxCell id="P4SMQWO8CdWx0Sw58CFj-45" value="+Map&amp;lt;String, Integer&amp;gt; getSentimentDistribution()" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-42">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-47" value="+List&amp;lt;String&amp;gt; tokenize()" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-42">
