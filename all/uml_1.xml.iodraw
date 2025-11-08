@@ -34,7 +34,7 @@
             <mxPoint x="290" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4SMQWO8CdWx0Sw58CFj-13" value="提交评论数据或选择已有数据集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P4SMQWO8CdWx0Sw58CFj-12">
+        <mxCell id="P4SMQWO8CdWx0Sw58CFj-13" value="请求创建可视化图表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P4SMQWO8CdWx0Sw58CFj-12">
           <mxGeometry x="-0.2527" y="2" relative="1" as="geometry">
             <mxPoint x="18" as="offset" />
           </mxGeometry>
