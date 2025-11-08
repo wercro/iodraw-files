@@ -28,12 +28,6 @@
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-8">
           <mxGeometry x="45" y="60" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="P4SMQWO8CdWx0Sw58CFj-11" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="280" y="460" as="sourcePoint" />
-            <mxPoint x="440" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-12" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P4SMQWO8CdWx0Sw58CFj-2" target="P4SMQWO8CdWx0Sw58CFj-3">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="130" y="180" as="sourcePoint" />
@@ -100,7 +94,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4SMQWO8CdWx0Sw58CFj-25" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="P4SMQWO8CdWx0Sw58CFj-25" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="290" y="470" as="sourcePoint" />
             <mxPoint x="160" y="470" as="targetPoint" />
