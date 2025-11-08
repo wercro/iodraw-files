@@ -5,25 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="110" y="100" width="100" height="300" as="geometry" />
+          <mxGeometry x="110" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-1">
           <mxGeometry x="45" y="60" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-3" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="240" y="100" width="100" height="450" as="geometry" />
+          <mxGeometry x="240" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-3">
           <mxGeometry x="45" y="60" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-6" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="400" y="100" width="100" height="300" as="geometry" />
+          <mxGeometry x="400" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-6">
           <mxGeometry x="45" y="60" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-8" value="SentimentAnalysis" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="530" y="100" width="110" height="300" as="geometry" />
+          <mxGeometry x="530" y="80" width="110" height="300" as="geometry" />
         </mxCell>
         <mxCell id="P4SMQWO8CdWx0Sw58CFj-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="P4SMQWO8CdWx0Sw58CFj-8">
           <mxGeometry x="45" y="60" width="10" height="200" as="geometry" />
