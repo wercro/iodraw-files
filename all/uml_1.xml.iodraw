@@ -70,6 +70,18 @@
         <mxCell id="Y_3jn_izrmK19M-V_Yoo-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;生态拓展&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;B端合作与脱敏数据洞察&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Y_3jn_izrmK19M-V_Yoo-21">
           <mxGeometry x="233" y="70" width="246" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Y_3jn_izrmK19M-V_Yoo-27" value="" style="group;labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-217" y="437" width="480" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_3jn_izrmK19M-V_Yoo-28" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;核心目标&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="Y_3jn_izrmK19M-V_Yoo-27">
+          <mxGeometry width="480" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_3jn_izrmK19M-V_Yoo-29" value="&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;商业模式&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;免费+会员+轻咨询&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Y_3jn_izrmK19M-V_Yoo-27">
+          <mxGeometry y="70" width="233" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_3jn_izrmK19M-V_Yoo-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;生态拓展&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;B端合作与脱敏数据洞察&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Y_3jn_izrmK19M-V_Yoo-27">
+          <mxGeometry x="233" y="70" width="246" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
